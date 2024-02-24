@@ -1,0 +1,31 @@
+{
+  "name": "assignment09",
+  "version": "1.0.0",
+  "description": "Assignment9",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhithaDeendi/ITIS-6177-Assignment-09.git"
+  },
+  "keywords": [
+    "Week-7"
+  ],
+  "author": "Nikhitha Deendi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhithaDeendi/ITIS-6177-Assignment-09/issues"
+  },
+  "homepage": "https://github.com/NikhithaDeendi/ITIS-6177-Assignment-09#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mariadb": "^3.2.3",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
