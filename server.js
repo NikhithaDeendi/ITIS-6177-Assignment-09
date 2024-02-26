@@ -28,5 +28,5 @@ app.get('/say',async(req,res)=>{
 });
 
 app.listen(port, () => {
-  console.log(`App is listening at http://localhost:${port}`);
+  console.log(`App is listening at http://147.182.177.233:${port}`);
 });
